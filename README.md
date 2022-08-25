@@ -24,6 +24,15 @@
 
 ▪ Run the project and test the WinForms actions.
 
+## Members:
+1) Hoang Dinh Anh Quóc
+
+2) Nguyen Nguyen An
+
+3) Nguyen Quoc Dat
+
+4) Tran Pham Kim Son
+
 ## Functions in this task: 
 
 ▪ Member management, Product management, and Order management:
