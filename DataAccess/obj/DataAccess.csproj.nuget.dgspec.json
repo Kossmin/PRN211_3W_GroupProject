@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\BusinessObject\\obj\\",
+        "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\NhatTan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NhatTan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,10 +48,6 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Analyzers": {
-              "target": "Package",
-              "version": "[6.0.6, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -61,10 +57,6 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.6, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -82,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\NhatTan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NhatTan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\PRN211_Assignment_2_SalesManagement-main\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -158,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
