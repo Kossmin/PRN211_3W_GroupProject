@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\SalesWinApp\\SalesWinApp.csproj": {}
+    "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\SalesWinApp\\SalesWinApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj": {
+    "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\NhatTan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\obj\\",
+        "projectPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NhatTan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -57,6 +61,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -74,24 +82,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj": {
+    "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\NhatTan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\obj\\",
+        "projectPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NhatTan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -106,8 +114,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj"
+              "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -150,24 +158,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\SalesWinApp\\SalesWinApp.csproj": {
+    "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\SalesWinApp\\SalesWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\SalesWinApp\\SalesWinApp.csproj",
+        "projectUniqueName": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\SalesWinApp\\SalesWinApp.csproj",
         "projectName": "SalesWinApp",
-        "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\SalesWinApp\\SalesWinApp.csproj",
-        "packagesPath": "C:\\Users\\NhatTan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\SalesWinApp\\obj\\",
+        "projectPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\SalesWinApp\\SalesWinApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\SalesWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NhatTan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -182,11 +190,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\BusinessObject\\BusinessObject.csproj"
+              "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\BusinessObject\\BusinessObject.csproj"
               },
-              "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\NhatTan\\Desktop\\New folder (2)\\PRN211_3W_GroupProject\\DataAccess\\DataAccess.csproj"
+              "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\FPTCurrentLearning\\Summer2022\\PRN211\\Projects and Solutions\\New folder\\Assignment 2\\PRN211_Assignment_2_SalesManagement-dev\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -218,7 +226,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
